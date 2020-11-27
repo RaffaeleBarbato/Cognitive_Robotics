@@ -1,5 +1,6 @@
 # Progetto Pepper Sociale
-### Gruppo 5 Barbato Raffaele 0622701280 Bianco Giovanni 0622701176 Carpinelli Camilla 062270172 Finelli Natalia 0622701263
+### Gruppo 5 
+### Barbato Raffaele 0622701280 Bianco Giovanni 0622701176 Carpinelli Camilla 062270172 Finelli Natalia 0622701263
 Per completare il task assegnato sono stati implementati i seguenti nodi:
 
   - image_taken
